@@ -16,6 +16,13 @@ Criado para se acompanhar resultados de jogos do seu Clube, sobre A história e 
 
 SpaceSport/
 ├── app/
+├    ├── routes/
+├    ├     ├── main_route.py
+├    ├     └── __init__.py
+├    ├── templates/
+├    ├     ├── bases/
+├    ├     ├     └──base.html
+├    ├     └── index.html
 ├    └── __init__.py
 ├── Readme.md
 └── run.py
