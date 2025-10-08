@@ -10,6 +10,18 @@ Criado para se acompanhar resultados de jogos do seu Clube, sobre A história e 
 - Git
 - Python 3.x
 - Virtualenv (opcional)  
+
+## Estrutura das pasta
+```bash
+
+SpaceSport/
+├── app/
+├    └── __init__.py
+├── Readme.md
+└── run.py
+
+```
+
 ## Instalação
 ???
 
