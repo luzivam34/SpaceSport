@@ -19,12 +19,19 @@ SpaceSport/
 ├    ├── routes/
 ├    ├     ├── main_route.py
 ├    ├     └── __init__.py
+├    ├──static
+├    ├     └── css/
+├    ├           └── index.css
 ├    ├── templates/
+├    ├     ├── cadastros/
+├    ├     ├     └── index.html
 ├    ├     ├── bases/
-├    ├     ├     └──base.html
+├    ├     ├     ├── base_cadastros.html
+├    ├     ├     └── base.html
 ├    ├     └── index.html
 ├    └── __init__.py
-├── Readme.md
+├── requirements.txt    
+├── README.md
 └── run.py
 
 ```
